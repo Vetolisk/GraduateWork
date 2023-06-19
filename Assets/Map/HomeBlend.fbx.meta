@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: 1d4170b7737111848a87c645b15f7e97
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Could.002
+    second: {fileID: 2100000, guid: ed3551240f6282b40899c5789073a578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MWO_chest_front
+    second: {fileID: 2100000, guid: 3c513d4198216714b94297516cc240af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MWO_chest_latch
+    second: {fileID: 2100000, guid: 62945bf4f42c52442972aeb747bc7997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MWO_chest_side
+    second: {fileID: 2100000, guid: c3cc0064b3577e144a050e7e599ec181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MWO_chest_top
+    second: {fileID: 2100000, guid: 6d8fac86fecbda442bb6a3aeb1b01bcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_wool
+    second: {fileID: 2100000, guid: 9e6319f494e439e43b1caf521bf7e7fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bookshelf
+    second: {fileID: 2100000, guid: f3f15e7f6c6432a448d19549b9ba33f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrots_stage1
+    second: {fileID: 2100000, guid: e7e4a07b25e3f44458df3020208f15f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrots_stage2
+    second: {fileID: 2100000, guid: 33913197fc56a6c4fa3eb30aca40ba2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carrots_stage3
+    second: {fileID: 2100000, guid: 44ed53069b8186340a58aac699dbd933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cobblestone.001
+    second: {fileID: 2100000, guid: cb8da7867a84d63429f853ff6e0c1d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crafting_table_front
+    second: {fileID: 2100000, guid: 9892e96a93c046e46bb8df199ea5de17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crafting_table_side
+    second: {fileID: 2100000, guid: 2014f3bdacf2922428a5035620f6c687, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crafting_table_top
+    second: {fileID: 2100000, guid: 574c20570404db242bf1a703019af5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt.001
+    second: {fileID: 2100000, guid: b4bd6571412b83d46a760135872d8bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: farmland.001
+    second: {fileID: 2100000, guid: c98a47482bb04d84f8bbbc36578106e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: farmland_moist
+    second: {fileID: 2100000, guid: 7e0cb59969b71fa4e97ac486d34f3588, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furnace_front
+    second: {fileID: 2100000, guid: 9e8ca751dcc3cf24381851398e4448f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: furnace_side
+    second: {fileID: 2100000, guid: edf4198da9d003a45b70033b9604ebc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass.001
+    second: {fileID: 2100000, guid: 361914b33ead6554a859c44d91efa51c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_pane_top
+    second: {fileID: 2100000, guid: 8cc255270eca1a7428a68c8c2b6c69c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_block_side.001
+    second: {fileID: 2100000, guid: 8e9ab09e467ca8545b660d5a73c49a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_block_top.001
+    second: {fileID: 2100000, guid: 0275b063a639ba34ba737484b3b1ad34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gravel.001
+    second: {fileID: 2100000, guid: deea4e471d1283b438f343c8c72048a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron_bars
+    second: {fileID: 2100000, guid: 78a3bf069c42b07428ab82dc3eff5d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ladder
+    second: {fileID: 2100000, guid: 556b4f6f7a916054d8142372bd7a50a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lava_still
+    second: {fileID: 2100000, guid: da2a74da62c0e5946aad71aa6509fbaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_door_bottom
+    second: {fileID: 2100000, guid: b1c71b70940efe54588ec118d35bbe31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_door_top
+    second: {fileID: 2100000, guid: 680de771ac5192040a8adf58b87fd660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_log.001
+    second: {fileID: 2100000, guid: 13b6f5f34d5cf64448af6f0e14dbb081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_log_top.001
+    second: {fileID: 2100000, guid: 2276262827693784ba7d062879bd48a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_planks.001
+    second: {fileID: 2100000, guid: dfbc70f69918993488ae2a826b59a4ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: potatoes_stage1
+    second: {fileID: 2100000, guid: 9faf07838fd3efe429b690ba1d81ce9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: potatoes_stage2
+    second: {fileID: 2100000, guid: a330627f3b1fd734aac59977e13a4103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: potatoes_stage3
+    second: {fileID: 2100000, guid: 6af96d24d73af7c42a30c80b3afb8256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smooth_stone
+    second: {fileID: 2100000, guid: def75ce27a855654c8e4c788723eea04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smooth_stone_slab_side
+    second: {fileID: 2100000, guid: 68d8e2f3eb3a2c349a8c135baa3e1c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torch
+    second: {fileID: 2100000, guid: 5a0f697ace7464f47ac3a8954a6c56ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_flow
+    second: {fileID: 2100000, guid: 775020bef6825b9419aed26dd6ea1c7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_still
+    second: {fileID: 2100000, guid: d3b007256aff74e47ba924a949b1cb2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheat_stage2
+    second: {fileID: 2100000, guid: d74bb7cf6b4a6e846b270c1fa475c58d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheat_stage3
+    second: {fileID: 2100000, guid: 85d5e565ff63d1349b3e84df46a0195d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheat_stage4
+    second: {fileID: 2100000, guid: df1f8ac1820215b45af1c8a5d74826c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheat_stage5
+    second: {fileID: 2100000, guid: b7cd93824254e284fa46e16898499242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheat_stage6
+    second: {fileID: 2100000, guid: a26c7e096b6856944b0fd55f53fa32d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheat_stage7
+    second: {fileID: 2100000, guid: 11b312f7b0364e9448510aad51b674c6, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

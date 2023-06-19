@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 38d7bf126ff90b543a0cefed7469f0c6
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Could.001
+    second: {fileID: 2100000, guid: cb4442c6d5b4bec418c597a6400327c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: andesite.001
+    second: {fileID: 2100000, guid: 05a4fc032de711146852f2e10602a7a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: azure_bluet.001
+    second: {fileID: 2100000, guid: 62b0cdca125483f45a0975b4b49ba01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: birch_leaves.001
+    second: {fileID: 2100000, guid: dbcfc2b1f7b4f8b47aaba0521ccf940c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: birch_log.001
+    second: {fileID: 2100000, guid: e54c33f30157ebd46843c44b29454b38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: birch_log_top.001
+    second: {fileID: 2100000, guid: a7c6db7f1508bfd41ab944c2aedecd00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_mushroom.001
+    second: {fileID: 2100000, guid: d8f1562cff19d1d43b149e686e953d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clay.001
+    second: {fileID: 2100000, guid: 7b3ec24b6a421f04d8f20859ec7bf336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coal_ore.001
+    second: {fileID: 2100000, guid: e4c5e7a859880f148bdf5f901aeeebe0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dandelion.001
+    second: {fileID: 2100000, guid: 4300b950503b47042b092f63dae304e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: diorite.001
+    second: {fileID: 2100000, guid: f060d8f9200fd6c44b76f37eda66520b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt.001
+    second: {fileID: 2100000, guid: d562b135183312540be32066b222a6e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fern.001
+    second: {fileID: 2100000, guid: e5835595275cde34d9d4f3a2ac1e85e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: granite.001
+    second: {fileID: 2100000, guid: 69c14e311a6af84409ae73eac9f7ee3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass.001
+    second: {fileID: 2100000, guid: 5cc1ec0f798d24a41944921cc8288bab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_block_side.001
+    second: {fileID: 2100000, guid: 6ec8de89153395f40bcd8b69bddce80c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass_block_top.001
+    second: {fileID: 2100000, guid: 86ac28b70c74e8048bb47f082fc7dc9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gravel.001
+    second: {fileID: 2100000, guid: 7589ba03de521994c82f58cfb3082b7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron_ore.001
+    second: {fileID: 2100000, guid: 869b8db919f615249a6aa743dcaa9232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_fern_bottom.001
+    second: {fileID: 2100000, guid: 8e4901779b88c044f99dfeb4175fdda3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: large_fern_top.001
+    second: {fileID: 2100000, guid: 70c2e00207d8e894cb92b854aaec6f47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_leaves.001
+    second: {fileID: 2100000, guid: ca22ca4b68cf01247be3e1b0412abbdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_log.001
+    second: {fileID: 2100000, guid: a1b473c138df420459812cddbb3d49cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oak_log_top.001
+    second: {fileID: 2100000, guid: 5f0165da9f5d26041a7422761186aeb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oxeye_daisy.001
+    second: {fileID: 2100000, guid: 482277f287efa8345a4ca6444aa71c3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: poppy.001
+    second: {fileID: 2100000, guid: ef77d3c54ec6a5b42ae38dd10c74ab5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: red_mushroom.001
+    second: {fileID: 2100000, guid: 81f0d40ea37612d40a8474ae1a55b700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rose_bush_bottom.001
+    second: {fileID: 2100000, guid: a68c3269002456f438e48e232fc62469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rose_bush_top.001
+    second: {fileID: 2100000, guid: 4e739df04f4d1654d849b07fc7e5b380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand.001
+    second: {fileID: 2100000, guid: b0c8829f715800542b4c12fe9c31edc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_leaves.001
+    second: {fileID: 2100000, guid: 756ca8f93a5e0fb4bbdb7f9c35ab94e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_log.001
+    second: {fileID: 2100000, guid: 73cbbd83e7acc144d84049ee7ff2cd37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_log_top.001
+    second: {fileID: 2100000, guid: f908d95b6433d2a4989c37550fe322a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stone.001
+    second: {fileID: 2100000, guid: bc247992602757943b793d302e0e9637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tall_grass_bottom.001
+    second: {fileID: 2100000, guid: 54092053ba00bf34ebacb73d4d4d79e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tall_grass_top.001
+    second: {fileID: 2100000, guid: 782e81ca9770fa547a25255f032db609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_flow.001
+    second: {fileID: 2100000, guid: 5a41578db35d70646ac9ab07ef2dcdbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: water_still.001
+    second: {fileID: 2100000, guid: 36b742268f71e464d804c6c85c9df089, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
